@@ -22,7 +22,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcse&show_icons=true)
-Outside of [![Linkedin: Jamshid Ali](https://img.shields.io/badge/-Jamshid Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamshid-ali-826489200/)](https://www.linkedin.com/in/jamshid-ali-826489200/)
+Outside of [![Linkedin: JamshidAli](https://img.shields.io/badge/-JamshidAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamshid-ali-826489200/)](https://www.linkedin.com/in/jamshid-ali-826489200/)
 [GitHub](https://github.com/mrcse/)[![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/mrcse)
 
 Open Source Contributor from *Pakistan 💚*           
