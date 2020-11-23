@@ -18,8 +18,6 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcse&show_icons=true)
-Outside of [GitHub](https://github.com/mrcse/)
-<!-- [![Twitter: mrcse](https://img.shields.io/twitter/follow/ashleyjaco1?style=follow)](https://twitter.com/ashleyalexjaco1) -->
-[![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/mrcse)
+Outside of [GitHub](https://github.com/mrcse/)[![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/mrcse)
 
 Open Source Contributor from *Pakistan 💚*           
