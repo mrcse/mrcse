@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 
 
-![Jamshid's github stats](https://github-readme-stats.vercel.app/api?username=mrcse&count_private=true&show_icons=true&theme=graywhite)
+![Jamshid's github stats](https://github-readme-stats.vercel.app/api?username=mrcse&hide=commits&show_icons=true&theme=graywhite)
 
 Outside of [GitHub](https://github.com/mrcse/)
 [![Linkedin: JamshidAli](https://img.shields.io/badge/-JamshidAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamshid-ali-826489200/)](https://www.linkedin.com/in/jamshid-ali-826489200/)
