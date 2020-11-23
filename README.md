@@ -20,7 +20,7 @@
 
 
 
-![Jamshid's github stats](https://github-readme-stats.vercel.app/api?username=mrcse&show_icons=true&theme=graywhite&count_private=true)
+![Jamshid's github stats](https://github-readme-stats.vercel.app/api?username=mrcse&count_private=true&show_icons=true&theme=graywhite)
 Outside of [GitHub](https://github.com/mrcse/)
 [![Linkedin: JamshidAli](https://img.shields.io/badge/-JamshidAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamshid-ali-826489200/)](https://www.linkedin.com/in/jamshid-ali-826489200/)
 [![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/mrcse)
