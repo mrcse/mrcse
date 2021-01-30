@@ -17,7 +17,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="25" src="https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg"></code>
+<code><img height="25" src="https://devclass.com/wp-content/uploads/2019/07/rust-logo.jpg"></code>
 
 
 ![Jamshid's github stats](https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&theme=graywhite)
