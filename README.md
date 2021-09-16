@@ -28,8 +28,10 @@
 </p>
 
 <br>
+<p>
 <img alt="GIF" src="assets/gif/search.gif" width="400" height="250"/>
 <img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="250"/>
+</p>
 <br>
 
 Outside of [GitHub](https://github.com/mrcse/)
