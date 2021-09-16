@@ -27,6 +27,11 @@
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
+<br>
+<img align="right" alt="GIF" src="assests/gif/taskCompleted.gif" />
+<img align="right" alt="GIF" src="assests/gif/search.gif"/>
+<br>
+
 Outside of [GitHub](https://github.com/mrcse/)
 [![Linkedin: JamshidAli](https://img.shields.io/badge/-JamshidAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamshid-ali-826489200/)](https://www.linkedin.com/in/jamshid-ali-826489200/)
 [![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/mrcse)
