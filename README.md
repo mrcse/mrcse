@@ -1,6 +1,6 @@
 ## Happy to see you here 🙂
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, JavaScript/Node.js, C/C++, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase & MySql as databases as well.
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub profile**](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, JavaScript/Node.js, C/C++, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase & MySql as databases as well.
 
 ## Tech Stack :computer:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -28,8 +28,8 @@
 </p>
 
 <br>
-<img align="right" alt="GIF" src="assets/gif/taskCompleted.gif" />
-<img align="right" alt="GIF" src="assets/gif/search.gif"/>
+<img align="right" alt="GIF" src="assets/gif/taskCompleted.gif" width="500" height="320"/>
+<img align="right" alt="GIF" src="assets/gif/search.gif" width="500" height="320"/>
 <br>
 
 Outside of [GitHub](https://github.com/mrcse/)
