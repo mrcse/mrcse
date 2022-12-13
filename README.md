@@ -22,19 +22,20 @@
 <code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
 
 
-
+  [![Jamshid's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcse&theme=github-compact)](https://github.com/mrcse/github-readme-activity-graph)
+  
 <p align="left">
  
-  [![Jamshid's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcse&theme=github-compact)](https://github.com/mrcse/github-readme-activity-graph)
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+ 
 </p>
 
 <br>
 <p>
-<img alt="GIF" src="assets/gif/search.gif" width="400" height="320"/>
-<img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="320"/>
+  <img alt="GIF" src="assets/gif/search.gif" width="400" height="320"/>
+  <img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="320"/>
 </p>
 <br>
 
