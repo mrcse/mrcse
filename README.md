@@ -24,7 +24,7 @@
 
   [![Jamshid's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcse&theme=github-compact)](https://github.com/mrcse/github-readme-activity-graph)
   
-<p align="left">
+<p align="centre">
  
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   
@@ -33,7 +33,7 @@
 </p>
 
 <br>
-<p>
+<p align="centre">
   <img alt="GIF" src="assets/gif/search.gif" width="400" height="320"/>
   <img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="320"/>
 </p>
