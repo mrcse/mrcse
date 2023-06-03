@@ -22,8 +22,22 @@
 <code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
 
 
-  [![Jamshid's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrcse&theme=github-compact)](https://github.com/mrcse/github-readme-activity-graph)
-  
+## 🔥 Streaks and Contributions:
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/Mubashir-Saeed1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mubashir Saeed's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Saeed1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+    <br/>
+<br/>
+
+<!-- <a href="https://github.com/Mubashir-Saeed1/github-readme-activity-graph"><img alt="Mubashir Saeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mubashir-Saeed1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ -->
+<br/>
+<br/>
+</p>
 <p align="centre">
  
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
