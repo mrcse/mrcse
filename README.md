@@ -31,12 +31,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jamshid Ali's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <br/>
-<br/>
-
-<!-- <a href="https://github.com/Mubashir-Saeed1/github-readme-activity-graph"><img alt="Mubashir Saeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mubashir-Saeed1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
-<br/>
-<br/>
+    <br/>
+    <br/>
+    <br/>
 </p>
 <p align="centre">
  
