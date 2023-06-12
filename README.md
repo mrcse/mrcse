@@ -32,8 +32,6 @@
     </a>
     <br/>
     <br/>
-    <br/>
-    <br/>
 </p>
 <p align="centre">
  
