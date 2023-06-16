@@ -2,6 +2,7 @@
 
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a graduate from school of [Computer Systems Engineering UET Peshawat](https://www.uetpeshawar.edu.pk/cse.php). I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get succeed and sometimes failed. I have deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision and Mobile App Development. I have started to explore Cross Platform App Development in shape of [**Flutter/Dart**](https://flutter.dev/). Along with that i have a experience with different programming languages, JavaScript/Node.js, C/C++, Arduino, and Python. I have tried Firebase, MongoDB and MySql as databases as well. Also work on REST APIs in different domain.
 
+
 ## Tech Stack :computer:
 <code><img height="25" src="https://hachinet.com/upload/2020/09/iot-la-gi-ung-dung-cua-iot-trong-thuc-tien-20200907100152.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -22,10 +23,9 @@
 <code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
 <br/>
 
+
 ## 🔥 Streaks and Contributions:
-
 <br/>
-
 <p align="center">
     <a href="https://github.com/mrcse/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jamshid Ali's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
