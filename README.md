@@ -59,6 +59,9 @@
 
 
 
+
+
+
 <p align="centre">
   <img alt="GIF" src="assets/gif/search.gif" width="400" height="320"/>
   <img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="320"/>
