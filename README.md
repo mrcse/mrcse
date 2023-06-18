@@ -36,7 +36,7 @@
 ## 🔥 Streaks and Contributions:
 <br/>
 <p align="center">
-    <a href="https://github.com/mrcse/github-readme-streak-stats">
+    <a href="[https://github.com/mrcse/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jamshid Ali's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <br/>
@@ -50,8 +50,12 @@
 
 
 <p align="centre">
-  <img width="65%"  src="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img width="27%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <a href="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+        <img width="65%"  src="https://github-readme-stats.vercel.app/api?username=mrcse&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+        <img width="27%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcse&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    </a>
 </p>
 <br>
 
