@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a graduate from the school of [Computer Systems Engineering UET Peshawat](https://www.uetpeshawar.edu.pk/cse.php). I have a passion for learning different things, languages, and frameworks. And in pursuit of learning, I experiment with things and sometimes get succeed and sometimes failed. I have a deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision, and Mobile App Development. I have started to explore Cross Platform App Development in the shape of [**Flutter/Dart**](https://flutter.dev/). Along with that, I have an experience with different programming languages, JavaScript/Node.js, C/C++, Arduino, and Python. I have tried Firebase, MongoDB, and MySql as databases as well. Also, work on REST APIs in different domains.
 
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a graduate from the school of [Computer Systems Engineering UET Peshawat](https://www.uetpeshawar.edu.pk/cse.php). I have a passion for learning different things, languages, and frameworks. And in pursuit of learning, I experiment with things and sometimes get succeed and sometimes failed. I have a deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision, and Mobile App Development. I have started to explore Cross Platform App Development in the shape of [**Flutter/Dart**](https://flutter.dev/). Along with that, I have an experience with different programming languages, JavaScript/Node.js, C/C++, Arduino, and Python. I have tried Firebase, MongoDB, and MySql as databases as well. Also, work on REST APIs in different domains.
 
 
 
@@ -27,7 +27,6 @@
 
 
 
-
 ## 🔥 Streaks and Contributions:
 <br/>
 <p align="center">
@@ -37,6 +36,7 @@
     <br/>
     <br/>
 </p>
+
 
 
 <!--
@@ -58,6 +58,8 @@
   <img alt="GIF" src="assets/gif/taskCompleted.gif" width="400" height="320"/>
 </p>
 <br>
+
+
 
 
 
