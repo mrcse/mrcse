@@ -27,9 +27,7 @@
 ## 🔥 Streaks and Contributions:
 <br/>
 <p align="center">
-    <a href="[https://github.com/mrcse/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jamshid Ali's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=mrcse&theme=shadow-orange&hide_border=true&border_radius=8&card_width=500)](https://git.io/streak-stats)
     <br/>
     <br/>
 </p>
