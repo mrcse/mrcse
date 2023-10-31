@@ -26,7 +26,6 @@
 
 ## 🔥 Streaks and Contributions:
 <br/>
-![Alt text](https://streak-stats.demolab.com/?user=mrcse&theme=shadow-orange&hide_border=true&border_radius=8&card_width=500))
 
 <p align="center">
     <a href="https://streak-stats.demolab.com/?user=mrcse&theme=shadow-orange&hide_border=true&border_radius=8&card_width=500)">
