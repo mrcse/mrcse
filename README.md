@@ -4,7 +4,7 @@
 
 I'm **Jamshid Ali**, currently the **CTO at [Cuboid Inc](https://cuboidinc.com)**, where we innovate and build cutting-edge solutions. Passionate about software architecture, backend engineering, and mobile development, I specialize in **Node.js, Flutter/Dart, .NET, and System Programming**.
 
-With a strong background in **system programming, IoT, and computer vision**, I enjoy solving complex problems and continuously exploring new technologies.
+With a strong background in **System Programming, IoT, and Backend Development**, I enjoy solving complex problems and continuously exploring new technologies.
 
 ---
 
