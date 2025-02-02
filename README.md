@@ -1,27 +1,36 @@
-## Hello there 👋
+# 👋 Hello there!
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/mrcse) represent my journey :running_man:.<br>This is **Jamshid Ali**, a young tech enthusiast and a learner.I am a graduate of the school of [Computer Systems Engineering UET Peshawat](https://www.uetpeshawar.edu.pk/cse.php). I have a passion for learning different things, languages, and frameworks. And in pursuit of learning, I experiment with things and sometimes succeed and sometimes failed. I have a deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision, and Mobile App Development. I have started to explore Cross Platform App Development in the shape of [**Flutter/Dart**](https://flutter.dev/). Along with that, I have an experience with different programming languages, JavaScript/Node.js, C/C++, Arduino, and Python. I have tried Firebase, MongoDB, and MySql as databases as well. Also, work on REST APIs in different domains.
+**Welcome to my GitHub!** 🚀  
 
+I'm **Jamshid Ali**, currently the **CTO at [Cuboid Inc](https://cuboidinc.com)**, where we innovate and build cutting-edge solutions. Passionate about software architecture, backend engineering, and mobile development, I specialize in **Node.js, Flutter/Dart, .NET, and System Programming**.
 
-## Tech Stack :computer:
-<code><img height="25" src="https://hachinet.com/upload/2020/09/iot-la-gi-ung-dung-cua-iot-trong-thuc-tien-20200907100152.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="25" src="https://1.bp.blogspot.com/-Qxtg8B8EEy8/XgBm0Bp1y4I/AAAAAAAAPD0/LdIgBrYPAMQ8VpGV4EBz6Kq9uBgoo1NmQCLcBGAsYHQ/s1600/rust-logo.png"></code>
-<code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
-<br/>
+With a strong background in **system programming, IoT, and computer vision**, I enjoy solving complex problems and continuously exploring new technologies.
+
+---
+
+## 🔥 Tech Stack  
+
+### 🚀 Primary Expertise  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![System Programming](https://img.shields.io/badge/-System%20Programming-blue?style=flat)
+
+### 🛠 Other Tools & Technologies  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Let's Connect  
+💼 **Website:** [cuboidinc.com](https://cuboidinc.com)  
+📫 **GitHub:** [github.com/mrcse](https://github.com/mrcse)  
 
 
 ## 🔥 Streaks and Contributions:
