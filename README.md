@@ -17,6 +17,7 @@ With a strong background in **System Programming, IoT, and Backend Development**
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![System Programming](https://img.shields.io/badge/-System%20Programming-blue?style=flat)
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-skyblue?style=flat)
 
 ### 🛠 Other Tools & Technologies  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
