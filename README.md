@@ -6,6 +6,7 @@ I'm **Jamshid Ali**, currently the **CTO at [Cuboid Inc](https://cuboidinc.com)*
 
 With a strong background in **System Programming, IoT, and Backend Development**, I enjoy solving complex problems and continuously exploring new technologies.
 
+
 ---
 
 ## 🔥 Tech Stack  
